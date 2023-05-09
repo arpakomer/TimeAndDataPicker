@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeAndDataPicker</string>
+    <string name="please_enter_time">please enter time</string>
+    <string name="please_enter_data">please enter data</string>
+</resources>
